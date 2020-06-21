@@ -1,0 +1,51 @@
+.image1{
+    width:30%;
+    border: 5px solid red;
+    border-radius: 100%;
+}
+.image2{
+    width:30%;
+    border: 5px solid #ffb700;
+    border-radius: 50%;
+}
+.image3{
+    width:30%;
+    border: 5px solid olive;
+    border-radius: 80%;
+}
+.image4{
+    width:40%;
+    border-bottom: 5px solid blue;
+    border-left: 17px double orange;
+    border-top: 10px solid violet;
+    border-radius: 50%;
+}
+.list{
+    background-image: url("../../001border/images/trees.jpg");
+    color: white;
+    font-weight: bold;
+    font-size: 28px;
+    border-radius: 100%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

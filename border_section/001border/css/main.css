@@ -1,0 +1,40 @@
+.image1{
+    width:30%;
+    border: 5px solid red;
+}
+.image2{
+    width:30%;
+    border: 5px dotted #ffb700;
+}
+.image3{
+    width:30%;
+    border: 5px double red;
+}
+.image4{
+    width:40%;
+    border-bottom: 5px solid blue;
+    border-left: 17px double orange;
+    border-top: 10px solid violet;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
