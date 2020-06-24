@@ -1,0 +1,41 @@
+*{
+    border: 2px dashed hotpink;
+    font-size: 20px;
+    height: auto;
+    background-color: #497ad4;
+    height: fit-content;
+}
+html{
+    border: none;
+}
+body{
+    width: 50%;
+    margin: 0px auto;
+    border: 3px solid black;
+    background-color: #49db49;
+    padding: 10px;
+}
+img{
+    margin: 0px auto;
+    display: block;
+    border: 20px ridge gold;
+    border-radius: 100%;
+}
+p{
+    background-color: inherit;
+    border: none;
+}
+
+#header001{
+    color: #1a1adc;
+    border: none;
+    font-weight: bolder;
+    background-color: inherit;
+}
+#header002{
+    color: red;
+    border: none;
+    font-weight: bolder;
+    background-color: inherit;
+
+}

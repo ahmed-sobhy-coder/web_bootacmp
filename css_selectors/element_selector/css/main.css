@@ -1,0 +1,7 @@
+div {   /* div is element selector*/
+    height: 100px;
+    width: 300px ;
+    background-color: orange;
+    border: 2px solid black;
+    margin: 2px;
+}

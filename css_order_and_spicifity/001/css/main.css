@@ -1,0 +1,10 @@
+h1{
+    color: red;
+}
+.answer{
+ color: green;
+}
+/* here is give class has the higher priority*/
+.give{
+  color: darkmagenta;
+}

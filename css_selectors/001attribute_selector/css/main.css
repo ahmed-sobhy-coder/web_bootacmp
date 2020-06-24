@@ -1,0 +1,18 @@
+
+[text-align]{   /* attribute selector */
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    border: 2px solid black;
+    margin: 2px auto;
+}
+[href]{
+    display: block ;
+    font-size: 22px;
+    text-decoration: none;
+    color: red;
+}
+[about="div 4"]{
+    font-weight: bold;
+    color: blue;
+}
+

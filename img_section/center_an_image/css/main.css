@@ -1,0 +1,20 @@
+/*html{
+    border: 2px dashed black;
+}
+body{
+    border: 2px dashed red;
+}*/
+
+*{  /* this means select everything */
+     border: 2px dashed hotpink;
+}
+div{
+    height: 200px;
+}
+img{
+    border-radius: 100%;
+    border: 3px groove orange;
+    margin: 0px auto;
+    display: block;
+    padding: 2px;
+}

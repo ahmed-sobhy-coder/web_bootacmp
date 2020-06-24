@@ -1,0 +1,27 @@
+
+img{
+    width: 200px;
+    height: 200px;
+    border: 5px solid red;
+    border-radius: 100px;
+    box-sizing: border-box; /* keep the same size & height without any chabge*/
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

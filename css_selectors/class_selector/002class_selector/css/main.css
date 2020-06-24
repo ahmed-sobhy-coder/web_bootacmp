@@ -1,0 +1,28 @@
+div.div1{   /* div1 is class selector*/
+    height: 100px;
+    width: 300px ;
+    background-color: cornflowerblue;
+    border: 2px solid black;
+    margin: 2px;
+}
+div.div2{   /* div2 is class selector*/
+    height: 100px;
+    width: 300px ;
+    background-color: gold;
+    border: 2px solid black;
+    margin: 2px;
+}
+div.div3 {   /* div3 is class selector*/
+    height: 100px;
+    width: 300px ;
+    background-color:greenyellow;
+    border: 2px solid black;
+    margin: 2px;
+}
+div.div4 {   /* div4 is class selector*/
+    height: 100px;
+    width: 300px ;
+    background-color: darkmagenta;
+    border: 2px solid black;
+    margin: 2px;
+}

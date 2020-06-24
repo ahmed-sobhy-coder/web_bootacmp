@@ -1,0 +1,24 @@
+*{
+    margin:0px;
+
+}
+ul {
+    font-size: 25px;
+    font-family: Arial;
+    background: #333;
+    float :right;
+    margin: 5px 10px 0px 10px;
+}
+ul li{
+
+    margin: 5px 10px 5px 20px;
+    display: inline-block;
+    padding: 10px;
+}
+ul li a{
+    text-decoration: none;
+    color:white;
+}
+a:hover{
+    border-bottom:1px solid orange;
+}

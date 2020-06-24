@@ -1,0 +1,13 @@
+h1{
+    color: red;
+}
+/*here is the id has the higher priority */
+#question{
+  color: blue;
+ }
+.answer{
+ color: green;
+}
+.give{
+  color: darkmagenta;
+}

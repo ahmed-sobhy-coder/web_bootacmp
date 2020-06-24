@@ -1,0 +1,14 @@
+h1{
+    color: red;
+    border: 3px solid black;
+}
+.give{
+    border-radius: 100%;
+    color: darkmagenta;
+    text-decoration: underline;
+
+}
+/* here is the answer class has the higher priority*/
+.answer{
+    color: green;
+}

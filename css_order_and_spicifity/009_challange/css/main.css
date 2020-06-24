@@ -1,0 +1,11 @@
+p{
+    color: red;
+}
+p.parc{
+    color: blue;
+    text-decoration: underline;
+}
+/* compound class*/
+html body p#parid{
+    color: limegreen;
+}

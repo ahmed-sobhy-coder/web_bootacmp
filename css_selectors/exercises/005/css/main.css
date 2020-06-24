@@ -1,0 +1,13 @@
+p{
+    text-align: center;
+    font-size: 30px;
+    border: 6px solid  black ;
+    padding: 10px;
+}
+p::first-letter{
+    font-size: 40px;
+    color: red;
+}
+p::first-line{
+    color: blue;
+}

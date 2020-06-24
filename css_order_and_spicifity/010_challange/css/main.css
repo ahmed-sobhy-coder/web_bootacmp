@@ -1,0 +1,18 @@
+html body ul li{
+    color: #1a1adc;
+}
+html body ul#ulid1 li{
+    color: darkmagenta;
+    text-decoration: underline;
+}
+.lic{
+    color: yellow;
+}
+html body ul#ulid1 li.lic{ /* specifity = 1+1+1+100+1+10 = 114*/
+    color: red;
+    text-decoration: none;
+}
+ul#ulid1 li.lic{ /* specifity = 1+100+1+10 = 112*/
+    color: orange;
+    text-decoration: none;
+}

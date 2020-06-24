@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    padding-top: 10px;
+}
+div + p{    /* the paragraph immediately after the closing div tag element
+you may think as + 1p*/
+    color: red;
+    font-size: 20px;
+    font-family: "Rage Italic";
+}

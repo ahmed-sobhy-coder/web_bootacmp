@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    padding-top: 10px;
+}
+div p{ /* this means all p inside div element*/
+    color: red;
+    font-size: 20px;
+    font-family: "Rage Italic";
+}

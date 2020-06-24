@@ -1,0 +1,16 @@
+/*
+article:first-child{
+    font-weight: bold;
+    color: red;
+}*/
+
+/*article:last-child{
+    font-weight: bold;
+    color: red;
+}*/
+
+article:only-child{
+    font-weight: bold;
+    color: red;
+}
+

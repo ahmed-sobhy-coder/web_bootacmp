@@ -1,0 +1,14 @@
+div{
+    border:1px solid red;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    display: inline-block ;
+}
+span{
+    border:1px solid red;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    display: block;
+}

@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    padding-top: 10px;
+}
+div ~ p{    /* all paragraphs after the closing div tag*/
+    color: red;
+    font-size: 20px;
+    font-family: "Rage Italic";
+}
